@@ -3,7 +3,7 @@
 ⚠️ *Archived organization*
 
 
-This organization has been archived and is no longer actively maintained. No further updates will be made. To learn more about Riverlane's products for Quantum Error Correction, visit [riverlane.com](riverlane.com).
+This organization has been archived and is no longer actively maintained. No further updates will be made. To learn more about Riverlane's products for Quantum Error Correction, visit [riverlane.com](https://www.riverlane.com/).
 
 Feel free to fork Aqueduct if you find it useful!
 
